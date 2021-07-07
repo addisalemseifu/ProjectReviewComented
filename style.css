@@ -23,7 +23,8 @@ header {
   color: rgb(255, 192, 200);
   font-size: 20px;
   letter-spacing: 1px;
-  margin: 10px 10px; 
+  margin: 10px 10px;
+  
 }
 
 .nav-bar a:hover {
@@ -40,7 +41,6 @@ header {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-    
 }
 
 .header-div h1 {
@@ -48,8 +48,7 @@ header {
   font-size: 100px;
   font-style: normal;
   text-decoration: none;
-  margin-top:200px;
-    
+  margin-top: 200px;
 }
 
 .header-div h1:hover {
