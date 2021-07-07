@@ -5,12 +5,12 @@
   overflow-x: hidden;
 }
 
- header{
+ header {
   height: 100vh;
   width: 100vw;
 }
 
- .nav-bar{
+ .nav-bar {
   border: 2px solid blue;
   text-align: right;
   width: 90%;
@@ -18,7 +18,7 @@
   margin: 10px auto;
 }
 
- .nav-bar a{
+ .nav-bar a {
   text-decoration: none;
   color: rgb(255, 192, 200);
   font-size: 20px;
@@ -26,11 +26,11 @@
   margin: 10px 10px; 
 }
 
- .nav-bar a:hover{
+ .nav-bar a:hover {
   text-decoration: underline;
 }
 
- .header-div{
+ .header-div {
   border: 2px solid blue;
   width: 90%;
   height: 80%;
@@ -43,7 +43,7 @@
     
 }
 
- .header-div h1{
+ .header-div h1 {
   color: rgb(207, 19, 107);
   font-size: 100px;
   font-style: normal;
@@ -52,11 +52,11 @@
     
 }
 
- .header-div h1:hover{
+ .header-div h1:hover {
   text-decoration: underline;
 }
 
- .header-div h2{
+ .header-div h2 {
   color: rgb(255, 192, 200);
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 30px;
